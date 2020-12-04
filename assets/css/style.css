@@ -151,7 +151,8 @@ form.signup input.form-control:focus {
 	color: #fff;
 	font-size: 45px;
 	font-weight: 900;
-	letter-spacing: -1px;
+  letter-spacing: -1px;
+  font-family: 'Pacifico', cursive;
 }
 
 h2.subtitle {
